@@ -63,7 +63,7 @@ h6 {
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border: 6px solid #b4605c;
-  border-top-color: #dcf5f2;
+  border-top-color: #fbefef;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -1144,7 +1144,7 @@ section {
   float: left;
   width: 44px;
   height: 44px;
-  background: #effbf9;
+  background: #fbefef;
   display: flex;
   justify-content: center;
   align-items: center;
