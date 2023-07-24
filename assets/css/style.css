@@ -473,6 +473,14 @@ h6 {
   #hero {
     background-attachment: fixed;
   }
+
+  #hero h1 {
+    color: #eeeeee;
+  }
+
+  #hero h2 {
+    color: #dddddd;
+  }
 }
 
 @media (max-width: 992px) {
