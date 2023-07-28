@@ -450,7 +450,7 @@ h6 {
   font-size: 22px;
 }
 
-#hero .btn-about {
+.btn-about {
   font-family: "Raleway", sans-serif;
   text-transform: uppercase;
   font-weight: 600;
@@ -465,7 +465,7 @@ h6 {
   background: #b4605c;
 }
 
-#hero .btn-about:hover {
+.btn-about:hover {
   background: #b16b67;
 }
 
@@ -784,13 +784,13 @@ section {
   font-size: 18px;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
-  color: #1d685f;
+  color: #b4605c;
   margin-bottom: 10px;
 }
 
 .resume .resume-item h5 {
   font-size: 16px;
-  background: #effbf9;
+  background: #faf5f5;
   padding: 5px 15px;
   display: inline-block;
   font-weight: 600;
