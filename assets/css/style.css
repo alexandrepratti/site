@@ -1,10 +1,11 @@
-/**
-* Template Name: Kelly
-* Updated: May 30 2023 with Bootstrap v5.3.0
-* Template URL: https://bootstrapmade.com/kelly-free-bootstrap-cv-resume-html-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+/* Veio do swiper-bundle.min.css */
+:root {
+  --swiper-theme-color: #007aff
+}
+
+:root {
+  --swiper-navigation-size: 44px
+}
 
 /*--------------------------------------------------------------
 # General
